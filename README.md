@@ -7,7 +7,7 @@
 
 ## Download
 
-> 1. iOS: https://apps.apple.com/us/app/it-weekly/id1569505088
+> 1. iOS: https://apps.apple.com/us/app/it-best-news/id1569505088
 > 2. Android & Macos : https://github.com/IT-Weekly/APP/releases
 > 3. Web: [https://itbest.news](https://itbest.news)
 > 4. Windows: comming 
