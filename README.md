@@ -15,7 +15,11 @@
 ## Content
 > 1. Golang(✅)
 > 2. Rust(making)
-## 交流群
+
+## telegream-group
+https://t.me/itweekly
+
+## wechat group
 <img src="img/wx-group.png" width="200"> 
 
 ## Info
