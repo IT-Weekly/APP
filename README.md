@@ -15,10 +15,12 @@
 ## Content
 > 1. Golang(✅)
 > 2. Rust(making)
+## 交流群
+<img src="img/wx-group.png" width="200"> 
 
 ## Info
 |          app                      |                 preview               |
 | --------------------------------- | --------------------------------- |
-| <img src="img/1.png" width="300">  |  <img src="img/2.png" width="300">  |
+| <img src="img/1.png" width="200">  |  <img src="img/2.png" width="200">  |
 
  
