@@ -16,6 +16,12 @@
 ## 内容
 > 1. Golang(✅)
 > 2. Rust(making)
+> 
+## telegream-group
+https://t.me/itweekly
+
+## 微信 group
+<img src="img/wx-group.png" width="200"> 
 
 ## 截图
 |          app                      |                 preview               |
