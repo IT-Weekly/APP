@@ -20,7 +20,7 @@
 https://t.me/itweekly
 
 ## wechat group
-<img src="https://itbest.news/static/wx-group1.png" width="300"> 
+<img src="https://itbest.news/static/wx-group2.png" width="300"> 
 
 ## Info
 |          app                      |                 preview               |
