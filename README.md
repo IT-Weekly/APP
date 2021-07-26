@@ -19,6 +19,12 @@
 ## telegream-group
 https://t.me/itweekly
 
+## golang Python Daily Channel 
+
+https://t.me/itweekly_python
+
+https://t.me/itweekly_go
+
 ## wechat group
 <img src="https://itbest.news/static/wx-group3.png" width="300"> 
 
