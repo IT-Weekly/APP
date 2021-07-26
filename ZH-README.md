@@ -33,6 +33,6 @@ https://t.me/itweekly_go
 ## 截图
 |          app                      |                 preview               |
 | --------------------------------- | --------------------------------- |
-| <img src="img/3.png" width="300">  |  <img src="img/2.png" width="300">  |
+| <img src="img/3.jpg" width="300">  |  <img src="img/2.png" width="300">  |
 
  
