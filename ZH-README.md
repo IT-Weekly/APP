@@ -20,6 +20,13 @@
 ## telegream-group
 https://t.me/itweekly
 
+## golang Python 每日汇总频道 
+
+https://t.me/itweekly_python
+
+https://t.me/itweekly_go
+
+
 ## 微信 group
 <img src="https://itbest.news/static/wx-group3.png" width="200"> 
 
