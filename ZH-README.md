@@ -28,7 +28,7 @@ https://t.me/itweekly_go
 
 
 ## 微信 group
-<img src="https://itbest.news/static/wx-group4.png" width="200"> 
+<img src="https://itbest.news/static/wx-group5.png" width="200"> 
 
 ## 截图
 |          app                      |                 preview               |
