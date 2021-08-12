@@ -26,7 +26,7 @@ https://t.me/itweekly_python
 https://t.me/itweekly_go
 
 ## wechat group
-<img src="https://itbest.news/static/wx-group4.png" width="300"> 
+<img src="https://itbest.news/static/wx-group5.png" width="300"> 
 
 ## Info
 |          app                      |                 preview               |
