@@ -27,8 +27,8 @@ https://t.me/itweekly_python
 https://t.me/itweekly_go
 
 
-## 微信 group
-<img src="https://itbest.news/static/wx-group5.png" width="200"> 
+## 微信 group  打开扫码
+https://itbest.news/static/wx-group6.png
 
 ## 截图
 |          app                      |                 preview               |
